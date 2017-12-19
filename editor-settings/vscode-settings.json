@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 11,
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "RobotoMono, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.iconTheme": "vscode-great-icons"
+}
