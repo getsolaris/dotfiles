@@ -1,7 +1,18 @@
 {
-    "editor.fontSize": 11,
-    "editor.fontWeight": "normal",
-    "editor.fontFamily": "RobotoMono, Monaco, 'Courier New', monospace",
-    "workbench.colorTheme": "One Dark Pro Vivid",
-    "workbench.iconTheme": "vscode-great-icons"
+  "editor.fontSize": 11.3,
+  "editor.fontWeight": "normal",
+  "editor.wordWrap": "on",
+  "editor.fontFamily": "Fira Code, RobotoMono, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  
+  "workbench.colorCustomizations": {
+  /*  "tab.activeBackground": "#282c34",
+    "activityBar.background": "#282c34",
+    "editorGroup.background": "#282c34",
+    "sideBar.background": "#282c34", */
+    "editorBracketMatch.background": "#00AA00",
+    "editorBracketMatch.border": "#ff0000"
+  }, 
+  "workbench.colorTheme": "Material Theme"
 }
